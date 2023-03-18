@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Catalog.Api.Controllers
+namespace Basket.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

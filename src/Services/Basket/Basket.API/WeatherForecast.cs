@@ -1,6 +1,6 @@
 using System;
 
-namespace Catalog.Api
+namespace Basket.API
 {
     public class WeatherForecast
     {
